@@ -14,7 +14,7 @@
 
 <br>
 
-[![My Portfolio](https://user-images.githubusercontent.com/68834718/214532356-7c56cdbd-0136-4d24-a532-d27e160ae72d.png)](https://www.harisabdullahansari.permamotive.com/)
+[![My Portfolio](https://github.com/Harismehmoodulhaq/portfolio/blob/main/public/app-image.png)](https://www.harisabdullahansari.permamotive.com/)
 
 ## Table of Contents
 

@@ -7,7 +7,7 @@ import Hero from './Hero';
 import Footer from './layout/Footer';
 import Layout from './layout/Layout';
 import Navbar from './layout/Navbar';
-import Blogs from './blogs';
+import Blogs from './Projects';
 import Skills from './Skills';
 import Social from './Social';
 import SocialLinks from './Social/SocialLinks';

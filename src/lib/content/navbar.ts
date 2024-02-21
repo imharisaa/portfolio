@@ -6,7 +6,7 @@ export const navbarSection: NavbarSectionType = {
         { name: 'about', url: '/#about'},
         { name: 'skills', url: '/#skills'},
         { name: 'experience', url: '/#experience' },
-        { name: 'blogs', url: '/#blogs' },
+        { name: 'projects', url: '/#projects' },
         { name: 'contact', url: '/#contact' },
     ],
     cta: {

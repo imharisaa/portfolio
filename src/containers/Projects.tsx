@@ -10,7 +10,7 @@ import { getSectionAnimation, projectVariants } from '@/styles/animations';
 import { motion } from 'framer-motion';
 import { useState } from 'react';
 
-const Blogs = () => {
+const Projects = () => {
   const { projects, title } = projectsSection;
   const [showMore, setShowMore] = useState(false);
   const topProjects = projects.slice(0, PROJECTS_INITIALLY);
@@ -19,7 +19,7 @@ const Blogs = () => {
 
   return (
     <>
-    <Wrapper id='blogs' animate={false} {...getSectionAnimation}>
+    <Wrapper id='projects' animate={false} {...getSectionAnimation}>
       <motion.h2 className="heading-secondary text-center !mb-12">
         {title}
       </motion.h2>
@@ -66,4 +66,4 @@ const Blogs = () => {
   );
 };
 
-export default Blogs;
+export default Projects;

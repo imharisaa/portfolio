@@ -1,11 +1,6 @@
 {
   "private": true,
   "scripts": {
-    "format": "prettier --write .",
-    "format:check": "prettier --check .",
-    "lint": "next lint",
-    "lint:fix": "eslint src --fix && yarn format",
-    "prepare": "husky install",
     "dev": "node server.js",
     "build": "next build",
     "start": "NODE_ENV=production node server.js"

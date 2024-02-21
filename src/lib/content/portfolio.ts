@@ -25,7 +25,7 @@ export const seoData = {
     'Haris Abdullah Ansari is a full stack developer who specializes in building front-end websites and backend api',
   author: author.name,
   image:
-    'https://user-images.githubusercontent.com/68834718/217467445-0b0d2d63-f8ad-4702-8474-814eb2cbb3be.png',
+    'https://github.com/Harismehmoodulhaq/portfolio/blob/main/public/app-image.png',
   url: 'https://www.harisabdullahansarif.permamotive.com',
   keywords: [
     'Haris',

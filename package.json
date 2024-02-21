@@ -1,14 +1,14 @@
 {
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
     "lint": "next lint",
     "lint:fix": "eslint src --fix && yarn format",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "NODE_ENV=production node server.js"
   },
   "dependencies": {
     "-": "^0.0.1",
@@ -49,3 +49,6 @@
     "*.{js,jsx,css,md}": "prettier --write"
   }
 }
+
+
+

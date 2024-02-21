@@ -128,3 +128,8 @@ Remember, Good PR makes you a Good contributor!
 Give a ⭐️ if you liked this project!
 
 [Scroll to Top](#--harisabdullahansaripermamotivecom)
+
+
+    <!-- // "dev": "next dev",
+    // "build": "next build",
+    // "start": "next start", -->

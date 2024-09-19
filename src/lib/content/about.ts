@@ -10,6 +10,7 @@ export const aboutSection: AboutSectionType = {
         'NextJs',
         'ReactJs',
         'React-native',
+        'Nativebase',
         'TailwindCSS',
         'ExpressJs',
         'Unit Testing',

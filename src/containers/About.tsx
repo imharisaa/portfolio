@@ -24,24 +24,20 @@ const About = () => {
       <main className="flex flex-col items-center gap-16 lg:items-start lg:flex-row">
         <div className="space-y-4 lg:w-3/5">
           <p>
-            Hi, my name is Haris Abdullah Ansari, an artist as well as crazy full stack
+            Hi, my name is Haris Abdullah Ansari, a full stack
             web developer who wants to explore every tech stack.
           </p>
           <p>
             Fast-forward to today, and I’ve had the privilege of working at a
             start-up -{' '}
             <Link
-              href="https://www.pixelwand.live/"
+              href="https://nexnoor.com/"
               target="_blank"
               className="text-accent"
             >
-              Propmotive
+              NexNoor
             </Link>
             .
-          </p>
-          <p>
-            My main focus these days is learning NextJS and finding
-            a decent job.
           </p>
 
           {list && (

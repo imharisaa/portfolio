@@ -4,6 +4,19 @@ export const experienceSection: ExperienceSectionType = {
     title: "where i've worked",
     experiences: [
         {
+            company: 'NextNoor - (Full Time)',
+            companyUrl: 'https://nexnoor.com/',
+            role: 'Junior Full Stack Enginner',
+            started: 'Jun 2024',
+            upto: 'Present',
+            tasks: [
+                'Job Description:',
+                'Worked as a junior developer in a team of 1-5 developers.',
+                'Technologies used:',
+                'React Js, React-native, Nativebase, Material Ui, Mantine Ui, EditorJS, Yopta-Editor, BlockNoteJS, Redux, Typescript, HTML5, SCSS, CSS3, PSD to HTML, Slack, Trello, Jira Software, Jira Board, Jira Application, Gitlab, Github, Skype, Zoom, Google Meet, Google Hangout, Figma/PSD to Nextjs, Figma/PSD to Reactjs, Figma/PSD to Reactnative, Figma/PSD to Html/CSS',
+            ],
+        },
+        {
             company: 'Propmotive',
             companyUrl: 'https://propmotive.com/',
             role: 'Junior Full Stack Enginner',

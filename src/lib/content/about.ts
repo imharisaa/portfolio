@@ -9,6 +9,7 @@ export const aboutSection: AboutSectionType = {
     items: [
         'NextJs',
         'ReactJs',
+        'React-native',
         'TailwindCSS',
         'ExpressJs',
         'Unit Testing',

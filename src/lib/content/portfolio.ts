@@ -11,12 +11,12 @@ export const socialLinks: StringKeyValueType = {
   // instagram: 'https://www.instagram.com/vatsalsinghkv',
   // twitter: 'https://twitter.com/vatsalsinghkv',
   github: 'https://github.com/imharisaa',
-  linkedin: 'https://www.linkedin.com/in/haris-mehmood-701b241a4/',
+  linkedin: 'https://www.linkedin.com/in/haris-ansari-701b241a4',
 };
 
 export const author = {
   name: 'Haris Abdullah Ansari',
-  email: 'harisaa@permamotive.com',
+  email: 'imharisaa@outlook.com',
 };
 
 export const seoData = {

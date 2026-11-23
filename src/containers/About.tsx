@@ -24,7 +24,7 @@ const About = () => {
       <main className="flex flex-col items-center gap-16 lg:items-start lg:flex-row">
         <div className="space-y-4 lg:w-3/5">
           <p>
-            As a Junior Full Stack Engineer, I bring nearly 3 years of hands-on
+            As a Junior Full Stack Engineer, I bring 3+ years of hands-on
             experience in web application development and a strong passion for
             creating efficient and user-friendly digital experiences. My journey
             in the realm of technology has equipped me with a diverse skill set
